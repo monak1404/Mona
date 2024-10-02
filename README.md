@@ -2,10 +2,8 @@
 <h1 align="center">Hi, I'm Mona Issak</h1>
 <h3 align="center">A bachelor's student from Norway</h3>
 
-<img align="right" alt="coding" width="300" src="https://giphy.com/gifs/cute-hi-oh-l0FF56cexcW2JAXCJj">
-
-- I’m currently studying my bachelor's degree in **Computer Science** at Oslo Metropolitan University
-<h4>What I have learned in my field of study 📚:</h4>
+- I’m currently studying my bachelor's degree in **Computer Science** at Oslo Metropolitan University. I’ve always had a strong interest in technology, and studying computer science has only deepened that. I enjoy the problem-solving aspect of coding and the challenge of building something functional and useful from the ground up. The constant learning and the opportunity to work with new tools and technologies keep me engaged and motivated. I’m excited about where this field can take me and am eager to continue growing my skills through hands-on experience and meaningful projects.
+<h4>What I have learned in my field of study :</h4>
 Discrete Mathematics, Programming, Technology and Society, Inclusive Web Design, IoT, Databases, Web Programming, Human Computer Interaction, Software Engineering, Algorithms and Data Structures, Networking and Cloud computing, Operating Systems, Software Testing, Introduction to Artifical Intelligens, Webapplications, Cybersecurity, Academic English
 
 
